@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a recent mathematics graduate from Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung with a passion for data science, software engineering, and cloud computing. I have experience teaching and developing course content, as well as leading student groups.
+I am a recent mathematics graduate from Universitas Islam Negeri (UIN) Sunan Gunung Djati Bandung with a passion for data science and software engineering. I have experience teaching and developing course content, as well as leading student groups.
 
 ## Education
 
@@ -23,14 +23,15 @@ I am a recent mathematics graduate from Universitas Islam Negeri (UIN) Sunan Gun
 ## Projects
 
 - [Quran Verse Classification Model](https://github.com/madwichery/klasifikasi-suara-quran-dengan-ann-dan-mfcc) - Thesis project using MFCC and ANN for classifying Quran verses
+  
 
 
 ## Skills
 
 - Programming: Python, Java, R, Golang, SQL
-- Web Development: Django, AWS, JavaScript
+- Web Development: Django, AWS, JavaScript, JavaSE, Golang
 - Data Science: Machine Learning, Artificial Intelligence, NLP
-- Cloud: AWS (Solutions Architect, Developer, SysOps Associate certificates) 
+- Cloud: AWS (Cloud Foundation, Solutions Architect - Associate Certificates) 
 
 ## Interests
 - Data Science, Data Engineering, Cloud Computing, Software Engineering
